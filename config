@@ -1,0 +1,10 @@
+#
+# Home directory
+#
+Freeze.DbEnv.db.DbHome=db
+
+#
+# Allows another process (db_archive) to access this environment
+#
+Freeze.DbEnv.db.DbPrivate=0
+
